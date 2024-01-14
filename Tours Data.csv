@@ -1,0 +1,66 @@
+Tour ID,Tour Company,Destination point,Tour Type,Tour Category,Main Atractions,Duration,Departure Point,Date,Budget
+1,Adventure Tours Pakistan,Azad Kashmir,Standard,Adventure,Upper Neelum,4,Lahore,22/12/2023,12000
+2,Adventure Tours Pakistan,Hunza,Standard,Adventure,Attabad Lake,4,Islamabad,21/12/2023,15000
+3,Asian Gateways,Hunza,Luxury,Adventure,Passu Glacier,2,Lahore,21/12/2023,30000
+4,Adventure Tours Pakistan,Azad Kashmir,Luxury,Family Friendly,Upper Neelum,4,Lahore,22/12/2023,25000
+5,Adventure Tours Pakistan,Gilgil Baltistan,Super Luxury,Adventure,Karakoram,7,Lahore,24/12/2023,30000
+6,Asian Gateways,Multan,Standard,Religious,Saints Darbar,3,Islamabad,12/12/2023,12000
+7,Adventure Tours Pakistan,Swat,Luxury,Family Friendly,Malam Jabba,7,Karachi,12/12/2023,25000
+8,Asian Gateways,Bahawalpur,Standard,Historical,Haweli,2,Islamabad,12/12/2023,12000
+9,Asian Gateways,Lahore,Standard,Family Friendly,Interior Lahore,2,Islamabad,14/12/2023,25000
+10,Adventure Tours Pakistan,Hunza,Luxury,Adventure,Attabad Lake,7,Lahore,17/12/2023,25000
+11,Asian Gateways,Murree,Standard,Adventure,Hiking,3,Lahore,11/11/2023,12000
+12,Baltistan Tours,Skardu,Super Luxury,Adventure,Katpana Desert,7,Lahore,11/12/2023,50000
+13,Baltistan Tours,Skardu,Super Luxury,Adventure,Katpana Desert,7,Lahore,10/12/2023,70000
+14,Adventure Tours Pakistan,Kalash Valley,Luxury,Adventure,Birir,7,Islamabad,9/12/2023,50000
+15,Adventure Tours Pakistan,Kalash Valley,Standard,Adventure,Birir,5,Karachi,7/11/2023,34000
+16,Adventure Tours Pakistan,Kalash Valley,Standard,Family Friendly,Rumbur,5,Karachi,8/10/2023,12000
+17,Baltistan Tours,Azad Kashmir,Luxury,Family Friendly,Taubat,6,Islamabad,10/11/2023,34000
+18,Adventure Tours Pakistan,Islamabad,Standard,Family Friendly,H11 Park,2,Karachi,11/12/2023,15000
+19,Adventure Tours Pakistan,Islamabad,Standard,Family Friendly,shahrai dastoor,3,Lahore,8/11/2023,12000
+20,Baltistan Tours,Islamabad,Standard,Adventure,Margalla Hills,3,Lahore,9/12/2023,11000
+21,Adventure Tours Pakistan,Azad Kashmir,Luxury,Adventure,Taubat,6,Karachi,7/10/2023,19000
+22,Adventure Tours Pakistan,Murree,Standard,Adventure,Hiking,3,Karachi,12/11/2023,9000
+23,Baltistan Tours,Azad Kashmir,Luxury,Family Friendly,Ratti Gali,6,Lahore,9/10/2023,34000
+24,Baltistan Tours,Hunza,Luxury,Family Friendly,Passu Glacier,6,Lahore,10/12/2023,75000
+25,Baltistan Tours,Naran,Standard,Family Friendly,Kunhar River,4,Islamabad,6/12/2023,12000
+26,Baltistan Tours,Naran,Standard,Family Friendly,Kunhar River,4,Lahore,18/11/2023,10000
+27,Asian Gateways,Skardu,Super Luxury,Adventure,Deosai Park,7,Lahore,12/11/2023,85000
+28,Baltistan Tours,Murree,Standard,Family Friendly,Mall Road,7,Islamabad,14/11/2023,10000
+29,Asian Gateways,Azad Kashmir,Luxury,Adventure,Ratti Gali,5,Lahore,11/10/2023,55000
+30,Baltistan Tours,Kalash Valley,Luxury,Adventure,Rumbur,5,Islamabad,9/10/2023,40000
+31,Asian Gateways,Hunza Valley,Luxury,Adventure,Passu Glacier,5,Lahore,11/11/2023,40000
+32,Asian Gateways,Naran,Standard,Family Friendly,Kunhar River,5,Karachi,5/11/2023,13000
+33,Blue Sky Treks & Tours,Azad Kashmir,Standard,Adventure,Arang Kail,4,Lahore,17/12/2023,25000
+34,Blue Sky Treks & Tours,Islamabad,Standard,Family Friendly,Monal,2,Lahore,6/6/2023,18000
+35,Blue Sky Treks & Tours,Hunza,Luxury,Adventure,Passu Glacier,6,Lahore,17/1/2024,60000
+36,Blue Sky Treks & Tours,Naran,Luxury,Adventure,Hiking,3,Islamabad,12/7/2023,45000
+37,Blue Sky Treks & Tours,Skardu,Super Luxury,Adventure,Hiking,10,Parbat,24/2/2024,10000
+38,Blue Sky Treks & Tours,Bahawalpur,Standard,Historical,Mahal,4,Lahore,27/11/2023,15000
+39,Crystal Travels,Nankana,Standard,Religious,Gurdwara,3,Islamabad,12/1/2024,10000
+40,Crystal Travels,Islamabad,Standard,Religious,Darbar Imam Bari,2,Lahore,13/12/2023,12000
+41,Crystal Travels,Lahore,Standard,Religious,Data Sahab,1,Islamabad,14/1/2024,24000
+42,Crystal Travels,Lyari Tehsil,Standard,Religious,Shri Mata Temple,3,Lahore,18/1/2024,30000
+43,Crystal Travels,balochistan,Luxury,Historical,Princess of Hope,9,Lahore,13/3/2024,100000
+44,Crystal Travels,Karachi,Standard,Family Friendly,Beaches,7,Lahore,12/11/2023,45000
+45,Crystal Travels,Lahore,Standard,Family Friendly,Minar e Pakistan,3,Islamabad,11/1/2024,12000
+46,Discover Pakistan Tours & Trekking,Naran,Luxury,Adventure,Jheel,5,Islamabad,13/12/2023,50000
+47,Discover Pakistan Tours & Trekking,Skardu,Luxury,Adventure,Hiking,5,Islamabad,15/12/2023,45000
+48,Discover Pakistan Tours & Trekking,Azad Kashmir,Super Luxury,Adventure,Hiking,10,Islamabad,17/12/2023,100000
+49,Discover Pakistan Tours & Trekking,Hunza,Luxury,Adventure,Hiking,7,Islamabad,19/12/2023,39000
+50,Discover Pakistan Tours & Trekking,Islamabad,Luxury,Family Friendly,Monal,7,Islamabad,25/12/2023,30000
+51,Discover Pakistan Tours & Trekking,Lahore,Luxury,Religious,badsahi Mosque,6,Lahore,1/1/2024,30000
+52,Discover Pakistan Tours & Trekking,balochistan,Luxury,Religious,Mandir,6,Islamabad,12/1/2024,35000
+53,Discover Pakistan Tours & Trekking,Gilgil Baltistan,Super Luxury,Adventure,Khunjrab pass,8,Islamabad,18/1/2024,100000
+54,Discover Pakistan Tours & Trekking,Naran,Luxury,Adventure,Hiking,6,Islamabad,27/1/2023,45000
+55,Explore Pakistan,Taxla,Standard,Historical,Old Palace,5,Lahore,22/1/2024,15000
+56,Explore Pakistan,Taxla,Standard,Historical,Old Taxla,7,Lahore,12/2/2024,18000
+57,Explore Pakistan,Interior Sindh,Standard,Historical,Hindu Temples,5,Lahore,12/3/2024,35000
+58,Explore Pakistan,balochistan,Luxury,Historical,Old temples,6,Lahore,16/12/2023,28000
+59,Explore Pakistan,Monjo Daro,Standard,Historical,Old Values,3,Lahore,3/3/2024,20000
+60,City Express Travels & Tours (Pvt) Ltd,Karachi,Standard,Family Friendly,Beaches,4,Lahore,9/12/2023,35000
+61,City Express Travels & Tours (Pvt) Ltd,Karachi,Luxury,Family Friendly,Museum,3,Lahore,12/2/2024,55000
+62,City Express Travels & Tours (Pvt) Ltd,Multan,Standard,Religious,Darbar,2,Lahore,27/12/2023,12000
+63,City Express Travels & Tours (Pvt) Ltd,Bahawalpur,Standard,Historical,Old Haweli,4,Lahore,28/1/2024,24000
+64,City Express Travels & Tours (Pvt) Ltd,Taxla,Standard,Historical,Old Fort,3,Lahore,17/2/2024,30000
+65,City Express Travels & Tours (Pvt) Ltd,Peshawar,Standard,Historical,Qisa Khawani azar,4,Lahore,22/12/2023,22000
